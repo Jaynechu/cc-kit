@@ -10,7 +10,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/your-username/cc-kit.git
+git clone https://github.com/Jaynechu/cc-kit.git
 cd cc-kit
 
 # 只安装 global 层（所有项目生效）

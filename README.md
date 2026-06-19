@@ -10,7 +10,7 @@ A Claude Code configuration enhancement kit. After installing, Claude Code works
 ## Install
 
 ```bash
-git clone https://github.com/your-username/cc-kit.git
+git clone https://github.com/Jaynechu/cc-kit.git
 cd cc-kit
 
 # Install global layer only (all projects)
